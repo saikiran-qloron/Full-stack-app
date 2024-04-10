@@ -1,0 +1,42 @@
+.formBox{
+    width: 40%;
+    margin: 0 auto;
+}
+
+.label{
+    display: flex;
+    justify-content: space-between;
+}
+
+.table{
+    width: 70vw;
+    
+}
+
+table{
+    margin: 0 auto;
+    width: 80%;
+}
+
+th{
+    background-color:aquamarine;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+
+p{
+    display: flex;
+    justify-content: end;
+}
+
+input{
+    padding: 8px 10px;
+    background-color: gray;
+    border-radius: 20px;
+    border: 0px;
+    cursor: text
+}
